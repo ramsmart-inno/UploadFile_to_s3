@@ -1,0 +1,14 @@
+{
+  "name": "testify",
+  "version": "1.0.0",
+  "description": "Super Duper demo test fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ram Mohan K A",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.843.0"
+  }
+}
