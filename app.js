@@ -55,3 +55,6 @@ const uploadFile = (fileName) => {
 };
 
 uploadFile('d.png');
+
+
+https://attacomsian.com/blog/nodejs-delete-file#:~:text=30%2C%202020%20Atta-,In%20Node.,from%20the%20local%20file%20system.
